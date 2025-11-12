@@ -1,2 +1,3 @@
 "this is file one" 
 "cloud demo comment"
+"cloud only changes, no git pull for local"
