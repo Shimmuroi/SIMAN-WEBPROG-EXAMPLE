@@ -1,3 +1,4 @@
 "this is file one" 
 "cloud demo comment"
 "cloud only changes, no git pull for local"
+"no git pull in cmd = only commited changes in cloud and nothing for local until git pull(ed), okay... theory tested good"
